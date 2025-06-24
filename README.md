@@ -1,5 +1,4 @@
-HUDCO COMPIANCE DASHBOARD
-Management Trainee – Compliance Dashboard Data Analyst | New Delhi | Dec 2024 – Present
+HUDCO COMPIANCE DASHBOARD                                                                                    New Delhi | Dec 2024 – Present
 
 Participated in the development and deployment of a Compliance Dashboard, enhancing real-time visibility into critical compliance metrics across various departments.
 Analyzed compliance risk data to identify potential high-risk areas, directly supporting strategies that contributed to reducing organizational penalties.
