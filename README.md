@@ -1,4 +1,4 @@
-HUDCO COMPIANCE DASHBOARD                                                                                    New Delhi | Dec 2024 – Present
+HUDCO COMPIANCE DASHBOARD                                                                                                              New Delhi | Dec 2024 – Present
 
 •	Participated in the development and deployment of a Compliance Dashboard, enhancing real-time visibility into critical compliance metrics across various departments.
 
