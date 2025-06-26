@@ -1,17 +1,15 @@
 Project Title:
-Strengthening Compliance Framework in HUDCO
-
+Enhancing HUDCO's Compliance Framework
 
 Aim:
-To enhance and streamline HUDCO’s compliance mechanisms in line with applicable regulatory standards, ensuring full adherence to statutory obligations, risk mitigation, and promotion of ethical business practices.
+To improve and expedite HUDCO's compliance procedures in accordance with relevant regulatory standards, guaranteeing complete compliance with legal requirements, reducing risk, and encouraging moral corporate conduct.
 
 Project Proposal:
-HUDCO, being a public sector enterprise under the Ministry of Housing and Urban Affairs, is governed by various regulatory frameworks including those of SEBI, RBI (for NBFC classification), CVC, and the Companies Act, 2013. This project proposes the development and implementation of a comprehensive Compliance Management System (CMS) that will:
-Ensure real-time tracking and reporting of compliance activities.
-Automate regulatory filings and internal audits.
-Establish centralized documentation and compliance dashboards.
-Promote staff awareness and training regarding legal and ethical obligations.
-Prevent instances of non-compliance through proactive monitoring and alerts.
+As a public sector organization under the Ministry of Housing and Urban Affairs, HUDCO is subject to a number of regulatory frameworks, such as the Companies Act of 2013, SEBI, RBI (for NBFC classification), and CVC.  In order to guarantee real-time tracking and reporting of compliance operations, this project suggests creating and implementing a comprehensive Compliance Management System (CMS).
+•	Automate internal audits and regulatory filings.
+•	Create unified dashboards for compliance and documentation.
+•	Encourage staff education and knowledge of their ethical and legal responsibilities.
+•	Prevent non-compliance by using proactive notifications and monitoring.
 
 Roles and Responsibilities:
 •	Participated in the development and deployment of a Compliance Dashboard, enhancing real-time visibility into critical compliance metrics across various departments.
